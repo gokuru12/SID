@@ -1,11 +1,27 @@
 {
-  "posts": [
+  "Personajes": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "Goku"
+      "deck": [
+      1,
+      2,
+      3,
+    ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id": 2,
+      "nombre": "Ramon"
+      "deck": [
+      50,
+      20,
+      31,
+    ]
+  "id": 3,
+      "nombre": "Henry"
+      "deck": [
+      501,
+      202,
+      317,
+    ]
 }
