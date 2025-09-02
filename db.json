@@ -6,15 +6,15 @@
     },
     {
       "id": 2,
-      "characterIds": [4, 5, 6]
+      "characterIds": [44, 55, 66]
     },
     {
       "id": 3,
-      "characterIds": [7, 8, 9]
+      "characterIds": [38, 94, 508]
     },
     {
       "id": 4,
-      "characterIds": [10, 11, 12]
+      "characterIds": [101, 211, 123]
     }
   ]
 }
