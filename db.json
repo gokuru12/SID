@@ -1,27 +1,20 @@
 {
-  "Personajes": [
+  "users": [
     {
       "id": 1,
-      "nombre": "Goku"
-      "deck": [
-      1,
-      2,
-      3,
-    ]
+      "characterIds": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "characterIds": [4, 5, 6]
+    },
+    {
+      "id": 3,
+      "characterIds": [7, 8, 9]
+    },
+    {
+      "id": 4,
+      "characterIds": [10, 11, 12]
     }
-  ],
-  "id": 2,
-      "nombre": "Ramon"
-      "deck": [
-      50,
-      20,
-      31,
-    ]
-  "id": 3,
-      "nombre": "Henry"
-      "deck": [
-      501,
-      202,
-      317,
-    ]
+  ]
 }
