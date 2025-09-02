@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Goku"
-      "characterIds": [
+      "deck": [
       1,
       2,
       3,
@@ -12,14 +12,14 @@
   ],
   "id": 2,
       "nombre": "Ramon"
-      "characterIds": [
+      "deck": [
       50,
       20,
       31,
     ]
   "id": 3,
       "nombre": "Henry"
-      "characterIds": [
+      "deck": [
       501,
       202,
       317,
